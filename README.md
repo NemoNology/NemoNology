@@ -6,7 +6,6 @@
     Discord: BELL#4020  
     Telegram: @bellkunbogdan  
     VK: [bellkunbogdan](vk.com/bellkunbogdan)  
-    Instagram: @bellkunbogdan  
 
 <!---
 NemoNology/NemoNology is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
