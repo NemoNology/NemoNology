@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @NemoNology - Sasha Bankovskiy
+- 👋 Hi, I’m @NemoNology - Alexandr Bankovskiy
 - 👀 I’m interested in programming (Game developming and other...), poetry, sport, anime, videogames and other
-- 🌱 I’m currently learning C++. I'm going to learn Python, Java, C# and maybe something else 
+- 🌱 I’m currently learning C++ and C#. I'm going to learn Python, Java and maybe something else 
 - 📫 How to reach me:
 
     Discord: BELL#4020  
