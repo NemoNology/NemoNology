@@ -8,6 +8,6 @@
   - Пока в планах стать миддлом (Middle-Разработчик). Дальше - Сеньёр, а дальше посмотрим. Буду стараться!
 - 📫 Мои контакты:
 
-    Discord: BELL#4020  
-    Telegram: @bellkunbogdan  
-    VK: [bellkunbogdan](vk.com/bellkunbogdan)
+  - Discord: BELL#4020  
+  - Telegram: @bellkunbogdan  
+  - VK: [bellkunbogdan](vk.com/bellkunbogdan)
