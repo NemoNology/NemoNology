@@ -7,6 +7,5 @@
 - 📫 Мои контакты:
 
   - Discord: BELL#4020  
-  - Telegram: @bellkunbogdan  
   - Telegram: [bellkunbogdan](t.me/bellkunbogdan)  
   - VK: [bellkunbogdan](vk.com/bellkunbogdan)
