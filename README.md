@@ -22,15 +22,9 @@
 
   **Мои контакты**
 
+  - [Telegram](https://t.me/bellkunbogdan);
+  - [Discord](https://discord.com/users/411445720374050818);
+  - VK: [bellkunbogdan](vk.com/bellkunbogdan)
   - [GitHub](https://github.com/NemoNology/);
   - [Leet code](https://leetcode.com/u/NemoNology/);
   - [Stack overflow](https://stackoverflow.com/users/23841077/nemonology);
-  - [Telegram](https://t.me/bellkunbogdan);
-  - [Discord](https://discord.com/users/411445720374050818);
-
-- 📫 **Мои контакты:**
-
-  - Discord: BELL#4020 - bellkunbogdan
-  - Telegram: [bellkunbogdan](t.me/bellkunbogdan)
-  - StackOverflow
-  - VK: [bellkunbogdan](vk.com/bellkunbogdan)
