@@ -5,14 +5,15 @@
   
   Программирую в основном на C#. Также ознакомлен с ЯП Pascal, C++, Python, JS, Dart;  
 
-  Разрабатывал [сайт](https://github.com/NemoNology/WEB-Programming) с использованием PHP в ходе обучения: Регистрация/Авторизация, редактирование данных профиля и хранение шуток рода "Вопрос-Ответ" в БД;  
+  Разработал [сайт](https://github.com/NemoNology/WEB-Programming) с использованием PHP в ходе обучения: Регистрация/Авторизация, редактирование данных профиля и хранение шуток рода "Вопрос-Ответ" в БД;  
   Также разрабатываю [сайт](https://github.com/NemoNology/WebAnimEdit) на платформе .NET Blazor.  
   Работал с [PostgreSQL](https://github.com/NemoNology/DB/tree/main/Lab-s), MySQL; Создавал БД с помощью SQL-запросов. Также поключался к СУБД через API;  
-  Разрабатывал [мобильное приложение](https://github.com/NemoNology/MobileApplication) на платформе Flutter с помощью ЯП Dart. В приложение входит Регистрация/Авторизация, простой калькулятор, редактирование данных профиля, вывод прогноза погоды с помощью API.
-  Разрабатывал эмуляцию движения частиц внутри замкнутой среды на движке Unity;
-  Разрабатывал [игру](https://github.com/NemoNology/Interactive-graphic-systems/tree/main/Lab-s/3) на движке Godot.  
-  Разрабатывал [игру](https://github.com/NemoNology/Interactive-graphic-systems/tree/main/Lab-s/2) на OpenGL (OpenTK).
+  Разработал [мобильное приложение](https://github.com/NemoNology/MobileApplication) на платформе Flutter с помощью ЯП Dart. В приложение входит Регистрация/Авторизация, простой калькулятор, редактирование данных профиля, вывод прогноза погоды с помощью API.
+  Разработал эмуляцию движения частиц внутри замкнутой среды на движке Unity;
+  Разработал [игру](https://github.com/NemoNology/Interactive-graphic-systems/tree/main/Lab-s/3) на движке Godot.  
+  Разработал [игру](https://github.com/NemoNology/Interactive-graphic-systems/tree/main/Lab-s/2) на OpenGL (OpenTK).
   Имеется опыт работы геймдизайнером. Получил в ходе 2-ух командных проектов в ВУЗе.  
+  Разработал клиент-серверный TCP/UDP (на выбор) [чат](https://github.com/NemoNology/CSNT/tree/main/VI/Lab-s/Client-Server%20chat).  
   Изучал [САОД](https://github.com/NemoNology/SDPA) в виде реализации алгоритмов сортировки, деревьев, стеков, очередей и т.п.  
   Ознакомлен с архитектурными паттернами MVC, MVVM.  
   Немного [работал](https://github.com/NemoNology/WebAnimEdit/commit/4bfabff01d3573ae18a338dce56d221badfa227f) с React (Remix).  
