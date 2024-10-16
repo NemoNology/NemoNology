@@ -4,7 +4,7 @@
 - **О моих проектах**
 
   - Разработал [сайт](https://github.com/NemoNology/WEB-Programming) с использованием PHP, подключающийся к MySQL БД;
-  - Также разрабатываю [веб-прижение](https://github.com/NemoNology/WebAnimEdit) для редактирования анимации на основе html5 на платформе .NET Blazor.
+  - Также разрабатываю [веб-прижение](https://github.com/NemoNology/WebAnimEdit) для редактирования анимации на основе html5.
   - Работал с [PostgreSQL](https://github.com/NemoNology/DB/tree/main/Lab-s), MySQL; Создавал БД с помощью SQL-запросов. Также поключался к СУБД через API;
   - Разработал [мобильное приложение](https://github.com/NemoNology/MobileApplication) на платформе Flutter с помощью ЯП Dart;
   - Разработал эмуляцию движения частиц внутри замкнутой среды на движке Unity;
